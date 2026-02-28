@@ -1,0 +1,5 @@
+[
+  "tests/test_landing_page.py::TestPage::test_basic",
+  "tests/test_landing_page.py::TestPage::test_empty",
+  "tests/test_landing_page.py::TestPage::test_type_error"
+]
